@@ -1,0 +1,39 @@
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.exe
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.deps.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.runtimeconfig.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.runtimeconfig.dev.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.dll
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.Views.dll
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 10.Views.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.csprojAssemblyReference.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.AssemblyInfoInputs.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.AssemblyInfo.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.csproj.CoreCompileInputs.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.RazorAssemblyInfo.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.RazorAssemblyInfo.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.TagHelpers.input.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.TagHelpers.output.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.RazorCoreGenerate.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddStaff.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\MemberProfile.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.RazorTargetAssemblyInfo.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.RazorTargetAssemblyInfo.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.Views.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\staticwebassets\Project 10.StaticWebAssets.Manifest.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\staticwebassets\Project 10.StaticWebAssets.xml
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.dll
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.genruntimeconfig.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 10.csproj.CopyComplete

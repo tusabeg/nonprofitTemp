@@ -1,0 +1,27 @@
+﻿@model Project_8.Models.Staff
+
+@{
+   Layout = null;
+   
+}
+
+<h2>Add Staff</h2>
+
+<form method="post">
+   <div asp-validation-summary="All">
+
+   </div>
+   Id:
+   <Input asp-for="Id" />
+   <br />
+
+   Name:
+   <Input asp-for="Name" />
+   <br />
+
+   Age:
+   <Input asp-for="Age" />
+   <br />
+
+   <input type="Submit" value=" Add Staff" />
+</form>

@@ -1,0 +1,39 @@
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.exe
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.deps.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.runtimeconfig.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.runtimeconfig.dev.json
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.dll
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.Views.dll
+C:\Users\tusab\source\repos\Project 8\Project 8\bin\Debug\netcoreapp3.1\Project 8.Views.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.csprojAssemblyReference.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.AssemblyInfoInputs.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.AssemblyInfo.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.csproj.CoreCompileInputs.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorAssemblyInfo.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorAssemblyInfo.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.TagHelpers.input.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.TagHelpers.output.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorCoreGenerate.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorTargetAssemblyInfo.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.RazorTargetAssemblyInfo.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.Views.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\staticwebassets\Project 8.StaticWebAssets.Manifest.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\staticwebassets\Project 8.StaticWebAssets.xml
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.dll
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.pdb
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.genruntimeconfig.cache
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Project 8.csproj.CopyComplete
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\MemberProfile.cshtml.g.cs
+C:\Users\tusab\source\repos\Project 8\Project 8\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddStaff.cshtml.g.cs

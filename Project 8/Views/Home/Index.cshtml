@@ -1,0 +1,38 @@
+﻿@{
+   ViewData["Title"] = "Home Page";
+}
+
+<table>
+   <tr>
+      <p>
+         <h3 align="left">Member Profile</h3>
+      </p>
+      <td align="right"> Sponsor Name: </td>
+      <td> <input type="text" name="Sponsor Name" placeholder="Gordon Tusabe"</td>
+   </tr>
+
+   <tr>
+      <td align="right"> Age: </td>
+      <td> <input type="text" name="Age" placeholder="14"</td>
+   </tr>
+
+   <tr>
+      <td align="right"> City: </td>
+      <td> <input type="text" name="City" placeholder="Kabale"</td>
+   </tr>
+
+   <tr>
+      <td align="right"> Child Sponsored: </td>
+      <td> <input type="text" name="Child Sponsored" placeholder="Joshua Tom"</td>
+   </tr>
+
+</table>
+
+<br />
+
+<button>
+   <a asp-controller="Home" asp-action="Member Profile">
+      Member Profile
+   </a>
+</button>
+
